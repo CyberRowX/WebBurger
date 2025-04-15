@@ -21,21 +21,21 @@ Thank you [CyberRowX](https://facebook.com/CyberRowX)
 # Installation
 ____________________
 
-    $ apt update -y && apt upgrade -y
-    $ pkg install git -y
-    $ pkg install python -y
-    $ pip2 install requests
-    $ git clone https://github.com/CyberRowX/WebBurger
-    $ cd WebBurger
-    $ pip install -r requirements.txt
-    $ git pull
-    $ python ....py
+    apt update -y && apt upgrade -y
+    pkg install git -y
+    pkg install python -y
+    pip2 install requests
+    git clone https://github.com/CyberRowX/WebBurger
+    cd WebBurger
+    pip install -r requirements.txt
+    git pull
+    python tony.py
    
    
 # Single installation command
 _______________________________________
 
-    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && pip2 install requests && git clone https://github.com/CyberRowX/WebBurger && cd WebBurger && pip install -r requirements.txt && git pull && python x py
+    apt update -y && apt upgrade -y && pkg install git -y && pkg install python -y && pip2 install requests && git clone https://github.com/CyberRowX/WebBurger && cd WebBurger && pip install -r requirements.txt && git pull && python tony.py
   
 ***Tutorial video : yourLink***
 
