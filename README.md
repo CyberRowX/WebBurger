@@ -1,9 +1,9 @@
-![Blue Futuristic Technology Presentation](https://github.com/whxitte/white-deface/assets/118425907/d68de67c-a078-4b99-921a-7c6beeb47b3c)
+![Blue Futuristic Technology Presentation](https://startechcrl.com/CyberRowX.png)
 
 
 
 ## Author
-[<img src="https://startechcrl.com/CyberRowX.png?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxitte) <a href="https://github.com/whxitte"><img title="Github" src="https://img.shields.io/badge/whxitte-brightgreen?style=for-the-badge&logo=github"></a>
+[<img src="style=for-the-badge&logo=instagram&logoColor=white" />](https://www.facebook.com/CyberRowX) <a href="https://github.com/CyberRowX"><img title="Github" src="https://img.shields.io/badge/whxitte-brightgreen?style=for-the-badge&logo=github"></a>
 
 
 # WHITE-DEFACE
