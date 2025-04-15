@@ -25,11 +25,11 @@ ____________________
     $ pkg install git -y
     $ pkg install python -y
     $ pip2 install requests
-    $ git clone https://github.com/whxitte/white-deface.git
-    $ cd white-deface
+    $ git clone https://github.com/CyberRowX/WebBurger
+    $ cd WebBurger
     $ pip install -r requirements.txt
     $ git pull
-    $ python white-deface.py
+    $ python ....py
    
    
 # Single installation command
