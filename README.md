@@ -3,7 +3,7 @@
 
 
 ## Author
-[<img src="style=for-the-badge&logo=instagram&logoColor=white" />](https://www.facebook.com/CyberRowX) <a href="https://github.com/CyberRowX"><img title="Github" src="https://img.shields.io/badge/whxitte-brightgreen?style=for-the-badge&logo=github"></a>
+[<img src="<a href="https://github.com/CyberRowX"><img title="Github" src="https://img.shields.io/badge/whxitte-brightgreen?style=for-the-badge&logo=github"></a>
 
 
 # WHITE-DEFACE
