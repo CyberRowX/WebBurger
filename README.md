@@ -1,6 +1,6 @@
 ![Blue Futuristic Technology Presentation](https://startechcrl.com/CyberRowX.png)
 
-# WHITE-DEFACE
+# WebBurger
 This is a simple tool to automatically deface vulnerable websites.
 
 (Tutorial video link at last of this page ⚠️)
