@@ -1,1 +1,1 @@
-
+import os; import time; import requests; import sys; import random; import os.path; print(" Update your Tools Please Wait. . . "); os.system("git pull"); print("well done Tools As a update Completed"); os.system("python WebBurger.cython-312.os")
